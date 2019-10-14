@@ -1,6 +1,10 @@
 INDIA
 http://peridot.streamguys.com:7150/Mirchi - radio mirchi
 http://104.238.99.1:8000/red967.mp3 -red fm
+https://17853.live.streamtheworld.com/CKYRFM_SC -Red FM 93.5
+http://185.80.220.12:8046/stream -Bollywood Radio and Beyond
+http://174.36.206.197:7019/stream/1/ -Radio Afsana India
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup -BBC Hindi Radio
 http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8
 http://prclive1.listenon.in:9960/;  -Radio City
 http://162.244.80.52:4614/stream/1/ -Radio India
